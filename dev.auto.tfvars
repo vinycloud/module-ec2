@@ -1,0 +1,5 @@
+ami = "ami-01163e76c844a2129"
+instancetype = "t2.micro"
+instancename = "Web Server"
+vpcid = "vpc-00c32d1aa37f1a616"
+key_name = "guildiac"

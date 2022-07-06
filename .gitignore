@@ -1,0 +1,7 @@
+.terraform
+guildiac
+guildiac.pub
+*.tfstate
+*.tfstate.*
+crash.log
+.terraform.*
