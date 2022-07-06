@@ -1,5 +1,5 @@
 ec2_ami_id        = "ami-01163e76c844a2129"
-ec2_instance_type = "c5.xlarge"
+ec2_instance_type = "c6g.xlarge"
 ec2_tags = {
   Environment = "dev"
   ManagedBy   = "terraform"
